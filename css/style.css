@@ -1,0 +1,101 @@
+.body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-blue {
+    background-color: #C4E2FF; 
+}
+.border-bottom-dark {
+    border-bottom: 1px solid black;
+}
+.border-bottom-gray {
+    border-bottom: 1px solid #000000;
+    opacity: 80%;
+}
+.slider-head {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 95px;
+}
+.slider-head + p {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 24px;
+}
+.btn {
+    border-radius: 99em;
+}
+.btn-wide {
+    width: 213px;
+    line-height: 24px;
+    padding: 7px 20px 9px;
+    font-size: 20px!important;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font-20 {
+    font-size: 20px;
+}
+.font-11 {
+    font-size: 11px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.font-10 {
+    font-size: 10px;
+}
+.font-16 {
+    font-size: 16px
+}
+
+.fa-arrow-trend-up {
+    font-size: smaller;
+    border: 1px solid #333333;
+    border-radius: 50%;
+
+}
+.text-black-50 {
+    color: #e6e6e6;
+
+}
+.hr {
+    border-top: 1px solid;
+    border-color: #E6E6E6;
+    opacity: 80%;
+    width: 100%;
+}
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
+.btn-sm {
+    border: 1px solid rgba(230, 230, 230, 1);
+    border-radius: 3px;
+    font-size: 13px;
+    color: rgba(117, 117, 117, 1);
+}
+.tag {
+    border-radius: 100px;
+    font-size: 10px;
+}
+.navbar  {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 20px;
+}
+.scale {
+    transform: scale(0.90);
+}
+a:-webkit-any-link {
+    text-decoration: none;
+    color: #757575;
+}
+.sticky {
+    position: sticky;
+    overflow: visible;
+    top: 6rem;
+}
+.fixed-top.active {
+    background-color: #ffff;
+}
+.fixed-top.active #nav-btn {
+    background-color: rgb(26, 137, 23);
+}
