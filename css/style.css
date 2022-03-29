@@ -99,3 +99,9 @@ a:-webkit-any-link {
 .fixed-top.active #nav-btn {
     background-color: rgb(26, 137, 23);
 }
+.z-2 {
+    z-index: 20;
+}
+.z-0 {
+    z-index: 0;
+}
